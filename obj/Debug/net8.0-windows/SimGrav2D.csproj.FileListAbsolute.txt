@@ -1,0 +1,307 @@
+C:\Users\USER\source\repos\Edilbertowzxy\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\USER\source\repos\Edilbertowzxy\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Edilbertowzxy\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Edilbertowzxy\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Edilbertowzxy\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\USER\source\repos\Edilbertowzxy\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Edilbertowzxy\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Edilberto Versão Teste\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\sistemas\Documents\Projetos\simxisto\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho - Programação Avançada - Bruno 2\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\sistemas\Documents\Projetos\3\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho - Programação Avançada - Bruno 3\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D - Versão Final\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Trabalho N2 - Código\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\UCL\Downloads\Programação Avançada\Trabalho N2\Testes de código\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.AssemblyReference.cache
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.Up2Date
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\sistemas\Documents\Projetos\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.AssemblyReference.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.Up2Date
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Projetos\SimGrav2D5\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.exe
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.deps.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.runtimeconfig.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\Google.Protobuf.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\MySql.Data.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\ZstdSharp.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.AssemblyReference.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.Form1.resources
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.GenerateResource.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.GeneratedMSBuildEditorConfig.editorconfig
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfoInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.AssemblyInfo.cs
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.CoreCompileInputs.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.sourcelink.json
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.csproj.Up2Date
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\refint\SimGrav2D.dll
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.pdb
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\SimGrav2D.genruntimeconfig.cache
+F:\UCL - Sistemas de Informação\Programação Avançada\Trabalho N2\Código - Trabalho N2 (VERSÃO DEFINITIVA)\SimGrav2D\obj\Debug\net8.0-windows\ref\SimGrav2D.dll
